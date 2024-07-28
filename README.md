@@ -69,7 +69,7 @@ for `d1 > 0` and `d2 > 4`. Otherwise, the variance is not defined.
 ## Usage
 
 ```javascript
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-f-variance@deno/mod.js';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-f-variance@v0.2.2-deno/mod.js';
 ```
 
 #### variance( d1, d2 )
@@ -140,7 +140,7 @@ v = variance( 3.0, -1.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@deno/mod.js';
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-f-variance@deno/mod.js';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-f-variance@v0.2.2-deno/mod.js';
 
 var d1;
 var d2;
