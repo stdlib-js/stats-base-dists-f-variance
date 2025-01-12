@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-23)
+## Unreleased (2025-01-12)
 
 <section class="features">
 
@@ -34,8 +34,10 @@ This release closes the following issue:
 
 <details>
 
+-   [`f3df15f`](https://github.com/stdlib-js/stdlib/commit/f3df15f118d563573f27d2d2b96e35b842f05a18) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
+-   [`fc0ff17`](https://github.com/stdlib-js/stdlib/commit/fc0ff171dab59e73e1748c1bff504166adc826c3) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`0ba282b`](https://github.com/stdlib-js/stdlib/commit/0ba282b89c384f06bbe3ff8ecd71982f05209606) - **chore:** minor clean-up _(by Philipp Burckhardt)_
--   [`0cab817`](https://github.com/stdlib-js/stdlib/commit/0cab817744fa607bd863eadf32204b36e668d31c) - **feat:** add C implementation for `stats/base/dists/f/variance` [(#4042)](https://github.com/stdlib-js/stdlib/pull/4042) _(by Vivek maurya, Philipp Burckhardt)_
+-   [`0cab817`](https://github.com/stdlib-js/stdlib/commit/0cab817744fa607bd863eadf32204b36e668d31c) - **feat:** add C implementation for `stats/base/dists/f/variance` [(#4042)](https://github.com/stdlib-js/stdlib/pull/4042) _(by Vivek Maurya, Philipp Burckhardt)_
 
 </details>
 
@@ -50,7 +52,7 @@ This release closes the following issue:
 A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
--   Vivek maurya
+-   Vivek Maurya
 
 </section>
 
