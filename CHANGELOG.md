@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-14)
+## Unreleased (2026-09-22)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`963d0fe`](https://github.com/stdlib-js/stdlib/commit/963d0fe1e9ac0295effb1dada5610e896634b7d1) - **test:** migrate `stats/base/dists/f/variance` to ULP-based testing [(#15403)](https://github.com/stdlib-js/stdlib/pull/15403) _(by Divyanshu)_
 -   [`b5b7b4c`](https://github.com/stdlib-js/stdlib/commit/b5b7b4cf9937655b9167cb0145394c787f36faeb) - **refactor:** add `isnan` guards [(#13362)](https://github.com/stdlib-js/stdlib/pull/13362) _(by Philipp Burckhardt)_
 -   [`2e3e0e9`](https://github.com/stdlib-js/stdlib/commit/2e3e0e9f450c5fbcf1cab51d1d87a558afcaa93a) - **bench:** update random value generation for `stats/base/dists/f` [(#10316)](https://github.com/stdlib-js/stdlib/pull/10316) _(by Lokesh Ranjan)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
@@ -26,8 +27,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Divyanshu
 -   Lokesh Ranjan
 -   Philipp Burckhardt
 
